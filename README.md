@@ -1,5 +1,5 @@
 # Youtube-Premium-Webpage-Only
-This responsive clone webpage is designed by HTMl, CSS 
+This responsive clone webpage is designed by HTML, CSS 
 
 
 
